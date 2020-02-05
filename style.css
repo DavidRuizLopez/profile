@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,700&display=swap')
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
 
 
 h1, h2 {
@@ -88,6 +89,9 @@ ul {
 .banner_text {
     color: white;
     text-align: center;
+    font-size: 3em;
+    font-family: 'Indie Flower', cursive;
+
 }
 .list-inline > li {
   display: inline-block;
