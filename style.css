@@ -37,6 +37,15 @@ ul {
 .icon:hover {
   color: #84A9C0;
 }
+.icon_tw {
+  color: #9DB4AB;
+  text-decoration: none;
+  margin: auto;
+  font-size: 50px;
+}
+.icon_tw:hover {
+  color: #1da1f2;
+}
 .button {
   background-color: #9DB4AB;
   margin: 50px;
