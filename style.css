@@ -28,14 +28,23 @@ ul {
   border-radius: 50%;
   object-fit: cover;
 }
-.icon {
+.icon_gh {
   color: #9DB4AB;
   text-decoration: none;
   margin: auto;
   font-size: 50px;
 }
-.icon:hover {
-  color: #84A9C0;
+.icon_gh:hover {
+  color: #24292E;
+}
+.icon_tch {
+  color: #9DB4AB;
+  text-decoration: none;
+  margin: auto;
+  font-size: 50px;
+}
+.icon_tch:hover {
+  color: #9147FF;
 }
 .icon_tw {
   color: #9DB4AB;
