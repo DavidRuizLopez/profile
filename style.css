@@ -98,6 +98,7 @@ ul {
 }
 #cont {
   height: 278px;
+  margin: 6em auto;
 }
 
 @media (max-width: 960px) {
