@@ -37,8 +37,11 @@ img {
   padding: 16px 21px
 }
 .color {
-  background-color: #D1FFDC;
   text-align: center;
+  background-image: url('images/IMG_2332.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 .list-inline > li {
   display: inline-block;
