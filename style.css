@@ -17,6 +17,7 @@ ul {
 }
 .banner {
   background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.6)), url("https://source.unsplash.com/random");
+  height: 50%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -58,12 +59,13 @@ ul {
 .button {
   background-color: #9DB4AB;
   margin: 50px;
-  padding: 15px 20px
+  padding: 10px 20px;
+  border-radius: 5px;
 }
 .button:hover {
   background-color: #84A9C0;
   color: white;
-  padding: 16px 21px
+  padding: 11px 21px
 }
 .color {
   text-align: center;
