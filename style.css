@@ -27,7 +27,7 @@ ul {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  margin: -5em -8em;
+  margin: -1em -1em;
 }
 .image {
   width: 100px;
@@ -88,9 +88,6 @@ ul {
 .banner_text {
     color: white;
     text-align: center;
-}
-.transparent {
-  opacity: 0;
 }
 .list-inline > li {
   display: inline-block;
