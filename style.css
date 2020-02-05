@@ -15,6 +15,11 @@ a {
 ul {
   text-decoration: none;
 }
+.center_text {
+  font-size: 5em;
+  text-align: center;
+  text-transform: capitalize;
+}
 .banner {
   background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.6)), url("https://source.unsplash.com/random");
   height: 50%;
@@ -22,6 +27,7 @@ ul {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  margin: -5em -8em;
 }
 .image {
   width: 100px;
