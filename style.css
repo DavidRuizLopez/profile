@@ -101,13 +101,9 @@ ul {
   border-radius: 5px;
   box-shadow: 0px 0px 7px 3px #4f6964;
 }
-.extra{
+#cont {
   height: 20em;
   margin: 6em auto 1em auto;
-}
-#cont {
-  height: 278px;
-  margin: 6em auto;
 }
 
 @media (max-width: 960px) {
