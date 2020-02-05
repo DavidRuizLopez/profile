@@ -85,6 +85,10 @@ ul {
   background-attachment: fixed;
   background-size: cover;
 }
+.banner_text {
+    color: white;
+    text-align: center;
+}
 .list-inline > li {
   display: inline-block;
   padding: 0px 20px;
