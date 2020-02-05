@@ -87,6 +87,7 @@ ul {
   width: 500px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
   background-color: #ADF4E8;
+  border-radius: 5px;
   box-shadow: 0px 0px 7px 3px #4f6964;
 }
 #cont {
