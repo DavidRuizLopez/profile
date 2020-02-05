@@ -15,7 +15,10 @@ a {
 ul {
   text-decoration: none;
 }
-img {
+.random {
+
+}
+.image {
   width: 100px;
   height: 100px;
   border-radius: 50%;
